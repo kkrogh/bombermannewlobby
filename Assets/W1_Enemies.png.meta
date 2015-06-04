@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: cd2ef848ef1cd1546a4d7f35526f2d80
+timeCreated: 1428458369
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: W1_Enemies_0
+    21300002: W1_Enemies_1
+    21300004: W1_Enemies_2
+    21300006: W1_Enemies_3
+    21300008: W1_Enemies_4
+    21300010: W1_Enemies_5
+    21300012: W1_Enemies_6
+    21300014: W1_Enemies_7
+    21300016: W1_Enemies_8
+    21300018: W1_Enemies_9
+    21300020: W1_Enemies_10
+    21300022: W1_Enemies_11
+    21300024: W1_Enemies_12
+    21300026: W1_Enemies_13
+    21300028: W1_Enemies_14
+    21300030: W1_Enemies_15
+    21300032: W1_Enemies_16
+    21300034: W1_Enemies_17
+    21300036: W1_Enemies_18
+    21300038: W1_Enemies_19
+    21300040: W1_Enemies_20
+    21300042: W1_Enemies_21
+    21300044: W1_Enemies_22
+    21300046: W1_Enemies_23
+    21300048: W1_Enemies_24
+    21300050: W1_Enemies_25
+    21300052: W1_Enemies_26
+    21300054: W1_Enemies_27
+    21300056: W1_Enemies_28
+    21300058: W1_Enemies_29
+    21300060: W1_Enemies_30
+    21300062: W1_Enemies_31
+    21300064: W1_Enemies_32
+    21300066: W1_Enemies_33
+    21300068: W1_Enemies_34
+    21300070: W1_Enemies_35
+    21300072: W1_Enemies_36
+    21300074: W1_Enemies_37
+    21300076: W1_Enemies_38
+    21300078: W1_Enemies_39
+    21300080: W1_Enemies_40
+    21300082: W1_Enemies_41
+    21300084: W1_Enemies_42
+    21300086: W1_Enemies_43
+    21300088: W1_Enemies_44
+    21300090: W1_Enemies_45
+    21300092: W1_Enemies_46
+    21300094: W1_Enemies_47
+    21300096: W1_Enemies_48
+    21300098: W1_Enemies_49
+    21300100: W1_Enemies_50
+    21300102: W1_Enemies_51
+    21300104: W1_Enemies_52
+    21300106: W1_Enemies_53
+    21300108: W1_Enemies_54
+    21300110: W1_Enemies_55
+    21300112: W1_Enemies_56
+    21300114: W1_Enemies_57
+    21300116: W1_Enemies_58
+    21300118: W1_Enemies_59
+    21300120: W1_Enemies_60
+    21300122: W1_Enemies_61
+    21300124: W1_Enemies_62
+    21300126: W1_Enemies_63
+    21300128: W1_Enemies_64
+    21300130: W1_Enemies_65
+    21300132: W1_Enemies_66
+    21300134: W1_Enemies_67
+    21300136: W1_Enemies_68
+    21300138: W1_Enemies_69
+    21300140: W1_Enemies_70
+    21300142: W1_Enemies_71
+    21300144: W1_Enemies_72
+    21300146: W1_Enemies_73
+    21300148: W1_Enemies_74
+    21300150: W1_Enemies_75
+    21300152: W1_Enemies_76
+    21300154: W1_Enemies_77
+    21300156: W1_Enemies_78
+    21300158: W1_Enemies_79
+    21300160: W1_Enemies_80
+    21300162: W1_Enemies_81
+    21300164: W1_Enemies_82
+    21300166: W1_Enemies_83
+    21300168: W1_Enemies_84
+    21300170: W1_Enemies_85
+    21300172: W1_Enemies_86
+    21300174: W1_Enemies_87
+    21300176: W1_Enemies_88
+    21300178: W1_Enemies_89
+    21300180: W1_Enemies_90
+    21300182: W1_Enemies_91
+    21300184: W1_Enemies_92
+    21300186: W1_Enemies_93
+    21300188: W1_Enemies_94
+    21300190: W1_Enemies_95
+    21300192: W1_Enemies_96
+    21300194: W1_Enemies_97
+    21300196: W1_Enemies_98
+    21300198: W1_Enemies_99
+    21300200: W1_Enemies_100
+    21300202: W1_Enemies_101
+    21300204: W1_Enemies_102
+    21300206: W1_Enemies_103
+    21300208: W1_Enemies_104
+    21300210: W1_Enemies_105
+    21300212: W1_Enemies_106
+    21300214: W1_Enemies_107
+    21300216: W1_Enemies_108
+    21300218: W1_Enemies_109
+    21300220: W1_Enemies_110
+    21300222: W1_Enemies_111
+    21300224: W1_Enemies_112
+    21300226: W1_Enemies_113
+    21300228: W1_Enemies_114
+    21300230: W1_Enemies_115
+    21300232: W1_Enemies_116
+    21300234: W1_Enemies_117
+    21300236: W1_Enemies_118
+    21300238: W1_Enemies_119
+    21300240: W1_Enemies_120
+    21300242: W1_Enemies_121
+    21300244: W1_Enemies_122
+    21300246: W1_Enemies_123
+    21300248: W1_Enemies_124
+    21300250: W1_Enemies_125
+    21300252: W1_Enemies_126
+    21300254: W1_Enemies_127
+    21300256: W1_Enemies_128
+    21300258: W1_Enemies_129
+    21300260: W1_Enemies_130
+    21300262: W1_Enemies_131
+    21300264: W1_Enemies_132
+    21300266: W1_Enemies_133
+    21300268: W1_Enemies_134
+    21300270: W1_Enemies_135
+    21300272: W1_Enemies_136
+    21300274: W1_Enemies_137
+    21300276: W1_Enemies_138
+    21300278: W1_Enemies_139
+    21300280: W1_Enemies_140
+    21300282: W1_Enemies_141
+    21300284: W1_Enemies_142
+    21300286: W1_Enemies_143
+    21300288: W1_Enemies_144
+    21300290: W1_Enemies_145
+    21300292: W1_Enemies_146
+    21300294: W1_Enemies_147
+    21300296: W1_Enemies_148
+    21300298: W1_Enemies_149
+    21300300: W1_Enemies_150
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: W1_Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 214
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 214
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 214
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 214
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 214
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 214
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 214
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 214
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 214
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 214
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 214
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 214
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 185
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 185
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 185
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 185
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 185
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 185
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 185
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 185
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 185
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 185
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 185
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 185
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 185
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 185
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 185
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 185
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 185
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 167
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 167
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 168
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 160
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 160
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 107
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 14
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 23
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 26
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 30
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 13
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 13
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: W1_Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 570 (ID=0x1081)
+    Vendor:   NVIDIA
+    VRAM:     1226 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Xml.dll (this message is harmless)
+Waiting for a connection..
+Waiting for a connection..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Client Connect Attempt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+AcceptCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Socket connected to 192.168.0.16:11000
+Socket connected to 192.168.0.16:11000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Waiting for a connection..
+Waiting for a connection..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting login with username =ddd  password=77963b7a931377ad4ab5ad6a9cd718aa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ReadCallback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+bytesRead 48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 48 bytes to server.
+Read 48 bytes from socket. 
+ Data : Login ddd 77963b7a931377ad4ab5ad6a9cd718aa <EOF>
+
+
+
+Read 48 bytes from socket. 
+ Data : Login ddd 77963b7a931377ad4ab5ad6a9cd718aa <EOF>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Platform assembly: C:\Users\Haan\Documents\GitHub\168bomberman\s_Data\Managed\System.Transactions.dll (this message is harmless)
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/.\libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Fallback handler could not load library C:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Mono/libC:/Users/Haan/Documents/GitHub/168bomberman/s_Data/Plugins/sqlite3.dll
+Response received : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting Register with username =ddd  password=77963b7a931377ad4ab5ad6a9cd718aa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 51 bytes to server.
+Response received : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting login with username =ddd  password=77963b7a931377ad4ab5ad6a9cd718aa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 48 bytes to server.
+Response received : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting Register with username =asdq  password=6d1bd1aa1f32499e4ec69dc8dce2cc5b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 52 bytes to server.
+Response received : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting login with username =asdq  password=6d1bd1aa1f32499e4ec69dc8dce2cc5b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 49 bytes to server.
+Response received : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 52a62433655f27c40a7959bc25d80765
+timeCreated: 1428457597
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomberman_0
+    21300002: Bomberman_1
+    21300004: Bomberman_2
+    21300006: Bomberman_3
+    21300008: Bomberman_4
+    21300010: Bomberman_5
+    21300012: Bomberman_6
+    21300014: Bomberman_7
+    21300016: Bomberman_8
+    21300018: Bomberman_9
+    21300020: Bomberman_10
+    21300022: Bomberman_11
+    21300024: Bomberman_12
+    21300026: Bomberman_13
+    21300028: Bomberman_14
+    21300030: Bomberman_15
+    21300032: Bomberman_16
+    21300034: Bomberman_17
+    21300036: Bomberman_18
+    21300038: Bomberman_19
+    21300040: Bomberman_20
+    21300042: Bomberman_21
+    21300044: Bomberman_22
+    21300046: Bomberman_23
+    21300048: Bomberman_24
+    21300050: Bomberman_25
+    21300052: Bomberman_26
+    21300054: Bomberman_27
+    21300056: Bomberman_28
+    21300058: Bomberman_29
+    21300060: Bomberman_30
+    21300062: Bomberman_31
+    21300064: Bomberman_32
+    21300066: Bomberman_33
+    21300068: Bomberman_34
+    21300070: Bomberman_35
+    21300072: Bomberman_36
+    21300074: Bomberman_37
+    21300076: Bomberman_38
+    21300078: Bomberman_39
+    21300080: Bomberman_40
+    21300082: Bomberman_41
+    21300084: Bomberman_42
+    21300086: Bomberman_43
+    21300088: Bomberman_44
+    21300090: Bomberman_45
+    21300092: Bomberman_46
+    21300094: Bomberman_47
+    21300096: Bomberman_48
+    21300098: Bomberman_49
+    21300100: Bomberman_50
+    21300102: Bomberman_51
+    21300104: Bomberman_52
+    21300106: Bomberman_53
+    21300108: Bomberman_54
+    21300110: Bomberman_55
+    21300112: Bomberman_56
+    21300114: Bomberman_57
+    21300116: Bomberman_58
+    21300118: Bomberman_59
+    21300120: Bomberman_60
+    21300122: Bomberman_61
+    21300124: Bomberman_62
+    21300126: Bomberman_63
+    21300128: Bomberman_64
+    21300130: Bomberman_65
+    21300132: Bomberman_66
+    21300134: Bomberman_67
+    21300136: Bomberman_68
+    21300138: Bomberman_69
+    21300140: Bomberman_70
+    21300142: Bomberman_71
+    21300144: Bomberman_72
+    21300146: Bomberman_73
+    21300148: Bomberman_74
+    21300150: Bomberman_75
+    21300152: Bomberman_76
+    21300154: Bomberman_77
+    21300156: Bomberman_78
+    21300158: Bomberman_79
+    21300160: Bomberman_80
+    21300162: Bomberman_81
+    21300164: Bomberman_82
+    21300166: Bomberman_83
+    21300168: Bomberman_84
+    21300170: Bomberman_85
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 515
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 515
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 515
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 515
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 515
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 515
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 515
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 515
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 490
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 490
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 490
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 490
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 490
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 490
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 490
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 490
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 490
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 490
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 458
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 448
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 448
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 448
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 448
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 448
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 448
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_38
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 448
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 448
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 448
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 448
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 448
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 438
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 438
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 438
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 403
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 403
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 428
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 419
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 419
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 419
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_56
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 419
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 419
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 366
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 366
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 366
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 366
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 366
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 139
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 34
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_76
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_77
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 7
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_79
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 7
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_80
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomberman_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

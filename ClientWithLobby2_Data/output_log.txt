@@ -1,0 +1,2112 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+desktop: 3840x2160 30Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.dll (this message is harmless)
+Client Connect Attempt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Xml.dll (this message is harmless)
+Socket connected to 127.0.0.1:11000
+Socket connected to 127.0.0.1:11000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting login with username =mario  password=e9da82f4c252e7f1745ae88f2624fc07
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 50 bytes to server.
+ClientMessageHandler : LoadLobby|mario|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|1||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|2||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|3||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|4||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.477884 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.315082 ms (FindLiveObjects: 0.018998 ms CreateObjectMapping: 0.010229 ms MarkObjects: 0.278546 ms  DeleteObjects: 0.007014 ms)
+
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 3840x2160 30Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.dll (this message is harmless)
+Client Connect Attempt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Xml.dll (this message is harmless)
+Socket connected to 127.0.0.1:11000
+Socket connected to 127.0.0.1:11000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting login with username =luigi  password=de2f15d014d40b93578d255e6221fd60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 50 bytes to server.
+ClientMessageHandler : PlayerLoggedIn|luigi|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LoadLobby|mario|luigi|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|1||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|2||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|3||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|4||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.238503 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.345187 ms (FindLiveObjects: 0.024844 ms CreateObjectMapping: 0.025428 ms MarkObjects: 0.287022 ms  DeleteObjects: 0.007307 ms)
+
+sending chat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 20 bytes to server.
+chat sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : Chat|mario:hhi|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cCp linentMe6)
+
+ageHandlerc: at at|marilish
+ 
+(Fi
+ 
+(Filename:nam : :/buildslavav/unity/build/arariftcts/cgsegenerated/commoon/runtimm/UnUnyintynengineDebuggen..ge Line: 56)
+
+ 56a
+
+ding chat to list
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+sending chat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 25 bytes to server.
+chat sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : Chat|luigi:you suck|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/ColioenruetssageHatyEngineDebug.gigin.yopp Linu: suc)
+
+ 
+(addiname:hat to ldsstave/
+ 
+(Filenad/ame:factsC:/eneiatdsd/comavon/runty/me/UnityEngineDactebug.gen.cppcomine: 56)
+
+ntidde/Ug nityEtongineD
+eb
+ug.lename: C:/buildsla
+v
+e/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 17 bytes to server.
+ClientMessageHandler : LoadLobby2|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugCgei.cntMpp Line:n ler :
+ 
+LobbyRoomText|1|luigi 1/4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.geC.cipp Line: 56)nd
+l
+er : LobbyRoomText|1|luigi 1/4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.647216 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.365939 ms (FindLiveObjects: 0.026597 ms CreateObjectMapping: 0.023382 ms MarkObjects: 0.313036 ms  DeleteObjects: 0.002630 ms)
+
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\bomberman3\ClientWithLobby2_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 3840x2160 30Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.dll (this message is harmless)
+Client Connect Attempt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\bomberman3\ClientWithLobby2_Data\Managed\System.Xml.dll (this message is harmless)
+Socket connected to 127.0.0.1:11000
+Socket connected to 127.0.0.1:11000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Attempting login with username =zelda  password=2a304a1348456ccd2234cd71a81bd338
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 50 bytes to server.
+ClientMessageHandler : PlayerLoggedIn|zelda|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UCityienEngisaeDebgeHandlcpp Li Pl 56)
+
+oggedIn|zelda|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LoadLobby|mario|luigi|zelda|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|1|luigi 1/4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|2||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|3||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|4||
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378800 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.680145 ms (FindLiveObjects: 0.029812 ms CreateObjectMapping: 0.022505 ms MarkObjects: 0.613504 ms  DeleteObjects: 0.013445 ms)
+
+Sent 19 bytes to server.
+ClientMessageHandler : PlayerLoggedInRoom|luigi|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LoadLobby2|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|1|luigi 2/4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpnt Lssae: Ha5dle
+ : LobbyRoomText|1|luigi 2/4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDeCug.egen.cpp Line: 56)
+
+LobbyRoomText|1|luigi 2/4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebuC.lientMessageHandle
+r
+ : ChangeMaxPlayers|1|2|4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerLoggedInRoom|mario|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/rCnlimentniessateHanginedler : ChanppeMaxPlae: 56)er
+
+s|1|2|4|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerLoggedInRoom|mario|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.585252 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.364770 ms (FindLiveObjects: 0.028059 ms CreateObjectMapping: 0.024259 ms MarkObjects: 0.308944 ms  DeleteObjects: 0.002922 ms)
+
+Sent 23 bytes to server.
+ClientMessageHandler : ChangeMaxPlayers|1|2|3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtiCe/lnientEMgineDgebugngel.epp L Ch: ngeMa
+
+xPlayers|1|2|3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomTCxt|1|luMegi 2/3|
+g
+eHilenleme:  CobbbuRoldmTlaex/u|i1y|bliud/ar t/fa|
+ 
+(genlretnd/mem:on/C:/bulldentMsssmegUni/unigtn: bLbildgen.cipamtLxten1rati i )om
+|
+o
+ ru
+ntimenUnityEng/bueDebug.gen.cpp Line: 56)
+
+facts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 24 bytes to server.
+Sent 19 bytes to server.
+ClientMessageHandler : PlayerLoggedInRoom|luigi|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerLoggedInRoom|mario|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LoadLobby2|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LobbyRoomText|1|luigi 3/3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityCngientMessagegeandlerp Lin: : 56by
+R
+oomText|1|luigi 3/3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtiCelUnentityEaggieHandler :n.cpbb LRone: 56)
+
+|luigi 3/3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEnCileDentMebsageug.genr :pph Line: 56)
+
+rs|1|3|3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PClyerLiegndInRMessoom|zelder|
+  C
+(Filename: CxP/luayers|1|3u|3|
+ 
+(Fid/artifacts/generated/common/build/artiniacEngineDerug.gen.omp Line: 56)
+
+nityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerLoggedInRoom|zelda|
+ 
+(Filename: C:/buiCdsleaveesunagtyHabunldlerrtifactsgeMaxPlaeyers|1|n/|3un
+ 
+(Filename: C:/buildslave/uniLiy/e: ild)
+
+rtifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerLoggedInRoom|zelda|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.003707 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.402767 ms (FindLiveObjects: 0.018413 ms CreateObjectMapping: 0.010814 ms MarkObjects: 0.369447 ms  DeleteObjects: 0.003799 ms)
+
+Sent 24 bytes to server.
+ClientMessageHandler : LoadLevel|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LoadLevel|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : LoadLevel|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+UnUoadlnn doUnuse   2r ial seer Serial zfiles liSed filee zndiwf losoed:oa)ed
+:ed0) 0
+)
+UnloUddTiamTe:e 0 521566 5 s s
+
+
+
+Un
+lloadnog 6 ndn s edn Ansd Asset stsetsto   reu rucuee mmmery u msagy  oaeadgObaectoadewbOects n
+o o 972. 
+72o.a
+lo:a6lm. 2(F4091Lsv7eOsn(cisdL0bej6bc8est 0s0C6e7t5O25jmcCMrpetingj jct0t5a5p ns  Mar0O50j4m ms MarkOb366 m:.40e73e4 e4sb Dslese bte0Os:jec0s: 0.0 m87)
+8
+ ms)
+
+Sent 12 SyeSstno  eb2teb.tes
+otoent seaserverer.
+ed
+ 
+
+t soidee
+ 
+(e:d da
+ 
+e( ids/abe:iun/bti/esliadvaytufiiytbualetefrctsfgemmsoag/ndencame/Unituotnmnrunbime/engtcpEngiue.geb)gc
+g
+en.cppe: 56)
+
+56)
+
+ClientMessageHandler : PlayerNum|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerNum|2|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : NewPlayer|2|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : NewPlayer|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : PlayerNum|3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : NewPlayer|3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : NewPlayer|1|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : NewPlayer|3|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : NewPlayer|2|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Loaading Player 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Loading Pladir 1
+ la
+yer 2
+a
+mFi:e ame/b Ci/busladseavun/iniyy/buuid/dr/iarcti/fancras/edgenerontdrd/coinu Etime/Uni
+ U
+nngFniDeenganebeuu:.g/gn.cpbppLiniil:s 5ave )
+
+56)
+
+ild/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Adding EnemyA d2n
+ E(Enim1 
+2
+ F
+ieename:bC:/ild/ldseaunltvn//tnitu/ld/ada/asagfnsrtte/deraetmd/couoommon/ruit/yenUininyebug.neug.bpgngennp: p 6e: 
+5
+: 56
+)
+
+
+Adding Enemy A
+d
+(Fni Eenemy 3
+ 
+(Filename: C:/buildsildvertifacts/gilne/aattifacts/generated/common/runteiebu/Unity.cngineDeb:ug 56)
+
+pp Line: 56)
+
+Sent 27 bytes to server.
+ClientMessageHandler : EnemyPos|3|10.84|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|10.84|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 27 bytes to server.
+ClientMessageHandler : EnemyPos|3|10.52|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|10.52|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 26 bytes to server.
+ClientMessageHandler : EnemyPos|3|10.2|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|10.2|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|9.880001|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|9.880001|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|9.560001|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|9.560001|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|9.240002|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|9.240002|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984375|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984375|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 28 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.9846|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.9846|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984744|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984744|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984837|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984837|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984895|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984895|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984933|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984933|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984957|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984957|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984972|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984972|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984982|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984982|9|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 33 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984993|8.84|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984993|8.84|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 33 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.984995|8.52|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.984995|8.52|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|8.202908|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|8.202908|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|7.984375|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|7.984375|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 35 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|7.9846|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|7.9846|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|7.984744|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|7.984744|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|7.984836|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|7.984836|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|7.984895|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|7.984895|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|7.984933|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|7.984933|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 25 bytes to server.
+ClientMessageHandler : BombDropped|3|9|8|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : BombDropped|3|9|8|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|8.144995|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|8.144995|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|8.464994|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|8.464994|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|8.784994|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|8.784994|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|9.015624|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|9.015624|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|9.015399|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|9.015399|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|9.015255|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|9.015255|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|9.015163|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|9.015163|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|9.015105|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|9.015105|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|8.991473|9.015067|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|8.991473|9.015067|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|9.311473|9.015043|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|9.311473|9.015043|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|3|9.62717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|9.62717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|9.947169|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|9.947169|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|10.26717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|10.26717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|10.58717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|10.58717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|10.90717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|10.90717|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.0155|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.0155|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01532|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01532|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.0152|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.0152|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01513|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01513|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01508|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01508|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01505|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01505|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01503|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01503|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01502|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01502|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01501|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01501|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01501|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01501|9.005877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.01501|8.685877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.01501|8.685877|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|8.369737|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|8.369737|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|8.049737|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|8.049737|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|7.729737|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|7.729737|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|7.409738|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|7.409738|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|7.089738|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|7.089738|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 35 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.9845|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.9845|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.98468|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.98468|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984795|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.984795|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984869|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.984869|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984916|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.984916|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984946|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.984946|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984966|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.984966|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984978|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/cntmmessageHanedler : EnemyPeos|3|11.00667|6.984697
+
+8|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|3|11.00667|6.984986|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|3|11.00667|6.984986|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+Sent 28 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.984375|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.984375|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9846|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9846|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+Sent 31 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.984744|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.984744|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9848362|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9848362|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 31 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.9848952|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnCtyienginessageHandler :Line  56)
+
+Pos|2|1|0.9848952|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 31 bytes to server.
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.9849329|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849329|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.984957|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.984957|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 31 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.9849725|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/rSnent 3U1 bytes to server.
+nityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849725|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849824|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849824|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 31 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.9849887|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849887|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 31 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.9849927|
+ 
+(Filename: C:/buildslavSent 31 bytes to server.
+nity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849927|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|2|1|0.9849954|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.9849954|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.984997|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1|0.984997|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 34 bytes to server.
+ClientMessageHandler : EnemyPos|2|1.32|0.9849981|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngent 38 bytes to server.
+ineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.32|0.9849981|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.637094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.637094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|1.957093|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.957093|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.277094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.277094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|2.597094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.597094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.917094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.917094|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.0155|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.0155|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.01532|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.01532|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015205|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015205|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.015131|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015131|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015084|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015084|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.015054|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015054|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.015035|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015035|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015022|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015022|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.015014|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015014|0.9914766|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.015004|1.151477|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015004|1.151477|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015002|1.471477|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.015002|1.471477|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|1.787174|
+ 
+(FileSent 37 bytes to server.
+name: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|1.787174|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015625|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015625|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 35 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|2.0154|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.0154|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|2.015256|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015256|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015164|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015164|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|2.015105|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp LineS 5nt 37 bytes to) 
+
+server.
+ClientMessageHandler : EnemyPos|2|3.005846|2.015105|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015067|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015067|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+Sent 25 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|2.015043|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|2.015043|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : BombDropped|2|3|2|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : BombDropped|2|3|2|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|1.855009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|1.855009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|1.535009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|1.535009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|1.215009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|1.215009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|0.9843756|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|0.9843756|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|0.9846004|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|3.005846|0.9846004|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|0.9847443|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|3.005846|ent 38 bytes to0server.
+.9847443|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.845846|0.9848363|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.845846|0.9848363|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|2.525846|0.9848952|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|2|2.525846|0.9848952|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.2097|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|2.2097|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|2|1.8897|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|2|1.8897|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.5697|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.5697|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|2|1.2497|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|1.2497|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 39 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9848437|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9848437|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.984936|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 39 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.984936|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849591|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 39 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9849591|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849738|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849738|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 39 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9849832|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandleent 39 bytes to server.
+r : EnemyPos|2|0.9849832|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849892|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 39 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9849892|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849931|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849931|0.9932179|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9849956|1.153218|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9849956|1.153218|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849972|1.473218|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9849972|1.473218|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9936112|1.789208|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9936112|1.789208|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|2|0.9936112|2.109208|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|2|0.9936112|2.109208|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 26 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|8.84|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|8.84|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 26 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|8.52|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|8.52|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|8.200001|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|8.200001|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|7.880001|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|7.880001|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|7.560001|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|7.560001|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|7.240002|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|7.240002|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|6.984375|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|6.984375|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 28 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|6.9846|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|6.9846|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|6.984744|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|6.984744|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|6.984836|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|6.984836|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 30 bytes to server.
+ClientMessageHandler : EnemyPos|1|1|6.984895|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1|6.984895|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 33 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.32|6.984933|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.32|6.984933|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.637093|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.637093|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.957093|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.957093|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 35 bytes to server.
+ClientMessageHandler : EnemyPos|1|2.0155|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.0155|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|1|2.01532|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.01532|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|2.015205|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.015205|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|2.015131|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.015131|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|2.015084|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.015084|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 25 bytes to server.
+Sent 37 bytes to server.
+ClientMessageHandler : BombDropped|1|2|7|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : BombDropped|1|2|7|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.015054|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.015054|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|2.015035|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|2.015035|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.855011|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.855011|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.535011|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.535011|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.215011|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.215011|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9843757|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9843757|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9846005|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9846005|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9847443|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9847443|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9848363|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9848363|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9848952|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9848952|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.984933|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.984933|6.991425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9849571|7.311425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9849571|7.311425|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|7.627113|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|7.627113|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|7.947113|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|7.947113|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|8.267113|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|8.267113|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|8.587112|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|8.587112|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|8.907112|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|8.907112|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 36 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.0155|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.0155|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.01532|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.01532|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015204|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015204|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015131|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015131|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015084|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015084|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015054|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015054|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015035|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015035|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015022|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015022|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015014|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015014|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 38 bytes to server.
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|0.9941393|9.015009|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 37 bytes to server.
+ClientMessageHandler : EnemyPos|1|1.154139|9.015006|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ClientMessageHandler : EnemyPos|1|1.154139|9.015006|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sent 20 bytes to server.
+Sent 20 bytes to server.
+Sent 20 bytes to server.
